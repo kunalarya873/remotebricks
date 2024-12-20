@@ -24,9 +24,9 @@ Installation
 
 1.  Clone the repository:
     ```
-    git clone https://github.com/your-username/user-management-api.git
+    git clone https://github.com/kunalarya873/remotebricks.git
 
-    cd user-management-api
+    cd remotebricks/
     ```
 2.  Create a virtual environment and activate it:
     ```
